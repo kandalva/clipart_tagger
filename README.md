@@ -1,8 +1,6 @@
 Office clipart tagger
 ====
 
-Overview
-
 ## Description
 
 This tool adds openmeta tags to the image files obtained from the Internet archive so that user can search clip arts on the spotlight search.
