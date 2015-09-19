@@ -7,7 +7,7 @@ This tool adds openmeta tags to the image files obtained from the Internet archi
 
 ## Requirement
 
-OpenMeta CLI tool, Ruby 2.x
+OpenMeta CLI tool, Ruby 2.x, MacOS X
 
 ## Usage
 
