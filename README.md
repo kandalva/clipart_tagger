@@ -11,10 +11,10 @@ OpenMeta CLI tool, Ruby 2.x, MacOS X
 
 ## Usage
 
-Download Office Cliparts from:
-https://archive.org/download/MS_Clipart_Collection/Cliparts.zip
+Download Office Cliparts from:  
+https://archive.org/details/MS_Clipart_Collection
 
-Download and install the openmata CLI tool from this site.
+Download and install the openmata CLI tool from this site.  
 https://code.google.com/p/openmeta/downloads/detail?name=OpenMeta_command_line_Mavericks_2.0.zip
 
 Modify Ruby script. 
